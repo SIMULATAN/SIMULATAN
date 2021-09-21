@@ -4,7 +4,7 @@
 ![ ](https://github-readme-stats.vercel.app/api?username=SIMULATAN&show_icons=true&theme=dracula)
 <br>NOTE: Most of my commits are to private repos!
 
-Hey, I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 14 year old coder from austria!
+Hey, I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 15 year old coder from austria!
 Here is some information about me:
 - 🖥️ Computer lover
 - 🏫 School: HTL Leonding

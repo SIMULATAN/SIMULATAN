@@ -24,12 +24,12 @@ I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 15 year old coder from austria!
 
 ## Coding Stats (last 7 days)
 <p align="center">
-  <img src="https://wakatime.com/share/@SIMULATAN/e7744563-cb78-4283-a8c3-ee35d680d8fb.svg" width="49%"/>
-  <img src="https://wakatime.com/share/@SIMULATAN/7fd524a6-d901-4309-bd55-5e1ad91d636c.svg" width="49%"/>
+  <a href="https://wakatime.com/share/@SIMULATAN/e7744563-cb78-4283-a8c3-ee35d680d8fb.svg" target="_blank"><img src="https://wakatime.com/share/@SIMULATAN/e7744563-cb78-4283-a8c3-ee35d680d8fb.svg" width="49%"/></a>
+  <a href="https://wakatime.com/share/@SIMULATAN/7fd524a6-d901-4309-bd55-5e1ad91d636c.svg" target="_blank"><img src="https://wakatime.com/share/@SIMULATAN/7fd524a6-d901-4309-bd55-5e1ad91d636c.svg" width="49%"/></a>
 </p>
 
 ## Checkout my public work!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=meteor-notifications-addon"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=mcpsnippets"/>
+  <a href="https://github.com/SIMULATAN/meteor-notifications-addon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=meteor-notifications-addon"/></a>
+  <a href="https://github.com/SIMULATAN/mcpsnippets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=mcpsnippets"/></a>
 </p>

@@ -8,19 +8,15 @@ I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 15 year old coder from austria!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SIMULATAN&show_icons=true&theme=dracula&count_private=true"/>
 </p>
-<br>NOTE: Most of my commits are to private repos!
 
 ## Facts about me
-- 🖥️ Computer lover
-- 🏫 School: HTL Leonding
-- 👯 Organization: ![BlackOnion](https://github.com/black0nion)
-- 📫 Discord: \_SIM\_#6866
+- 🖥️ I love computers
+- 👯 Organization: [BlackOnion](https://www.black-onion.com)
+- 📫 Discord: [\_SIM\_#6866](https://discord.com/users/505713760124665867)
 - ☕ Favorite Programming Language: Java
-- 🔭 Current Project: [BlackOnion](https://www.black-onion.com)
+- 🔭 Main Project: [BlackOnion-Bot](https://github.com/black0nion/BlackOnion-Bot)
 - 📙 Languages: German (native), English (kinda ok I guess)
-- 😡 School-schooling hater
-- 💻 Homeschooling 4 eva!
-- 🦥 I'm kinda lazy physically
+- 💻 I like homeschooling
 
 ## Coding Stats (last 7 days)
 <p align="center">
@@ -30,6 +26,7 @@ I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 15 year old coder from austria!
 
 ## Checkout my public work!
 <p align="center">
+  <a href="https://github.com/Black0nion/BlackOnion-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=black0nion&repo=blackonion-bot"/></a>
   <a href="https://github.com/SIMULATAN/meteor-notifications-addon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=meteor-notifications-addon"/></a>
   <a href="https://github.com/SIMULATAN/mcpsnippets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=mcpsnippets"/></a>
 </p>

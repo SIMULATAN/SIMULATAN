@@ -23,9 +23,9 @@ I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 15 year old programmer from austria!
 
 ## Checkout my public work!
 <p align="center">
-  <a href="https://github.com/Black0nion/BlackOnion-Bot"><img height="110vh" src="https://github-readme-stats.vercel.app/api/pin/?username=black0nion&repo=blackonion-bot&theme=dracula"/></a>
-  <a href="https://github.com/SIMULATAN/meteor-notifications-addon"><img height="110vh" src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=meteor-notifications-addon&theme=dracula"/></a>
-  <a href="https://github.com/SIMULATAN/mcpsnippets"><img height="110vh" src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=mcpsnippets&theme=dracula"/></a>
+  <a href="https://github.com/Black0nion/BlackOnion-Bot"><img width="33%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=black0nion&repo=blackonion-bot&theme=dracula"/></a>
+  <a href="https://github.com/SIMULATAN/meteor-notifications-addon"><img width="33%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=meteor-notifications-addon&theme=dracula"/></a>
+  <a href="https://github.com/SIMULATAN/mcpsnippets"><img width="33%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=mcpsnippets&theme=dracula"/></a>
 </p>
 
 ## Coding Stats (last 7 days)

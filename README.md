@@ -30,10 +30,10 @@ I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 16 year old programmer from austria!
 </p>
 
 ## Coding Stats (last 7 days)
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=simulatan&layout=compact&theme=dracula"/>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=simulatan&layout=compact&theme=dracula"/>
 <p align="center">
-  <a href="https://wakatime.com/share/@SIMULATAN/e7744563-cb78-4283-a8c3-ee35d680d8fb.svg" target="blank"><img src="https://wakatime.com/share/@SIMULATAN/973284ab-3803-46df-8022-1264b93097da.svg" width="49%"/></a>
-  <a href="https://wakatime.com/share/@SIMULATAN/2665b728-3965-4d16-8126-32de9eb86411.svg" target="blank"><img src="https://wakatime.com/share/@SIMULATAN/2665b728-3965-4d16-8126-32de9eb86411.svg" width="49%"/></a>
+  <a href="https://wakatime.com/share/@SIMULATAN/e7744563-cb78-4283-a8c3-ee35d680d8fb.svg" target="blank"><img src="https://wakatime.com/share/@SIMULATAN/973284ab-3803-46df-8022-1264b93097da.svg" width="45%"/></a>
+  <a href="https://wakatime.com/share/@SIMULATAN/2665b728-3965-4d16-8126-32de9eb86411.svg" target="blank"><img src="https://wakatime.com/share/@SIMULATAN/2665b728-3965-4d16-8126-32de9eb86411.svg" width="45%"/></a>
 </p>
 
 <details>

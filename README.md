@@ -15,7 +15,7 @@ I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 16 year old programmer from austria!
 ## Facts about me
 - 🖥️ I love computers
 - 👯 Organization: [BlackOnion](https://www.black-onion.com)
-- 📫 Discord: [\_SIM\_#6866](https://discord.com/users/505713760124665867)
+- 📫 Discord: [@\_sim_](https://discord.com/users/505713760124665867)
 - ☕ Favorite Programming Language: Java
 - 🔭 Main Project: [BlackOnion-Bot](https://github.com/black0nion/BlackOnion-Bot)
 - 📙 Languages: German (native), English (kinda ok I guess)

@@ -5,7 +5,7 @@
 [![Dev.to (@SIMULATAN)](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/simulatan)
 
 # Hi there 👋
-I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 16 year old programmer from austria!
+I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 17 year old programmer from austria!
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SIMULATAN&show_icons=true&theme=dracula&locale=en&layout=compact"/>

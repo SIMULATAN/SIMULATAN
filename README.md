@@ -23,8 +23,8 @@ My name is \_SIM\_ / SIMULATAN / Jakob and I'm an 18 year old programmer from au
 ## Checkout my public work!
 <p align="center">
   <a href="https://github.com/SnotyMe/snoty-backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snotyme&repo=snoty-backend&theme=dracula"/></a>
+  <a href="https://github.com/SIMULATAN/k8s-ops"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=k8s-ops&theme=dracula"/></a>
   <a href="https://github.com/SIMULATAN/meteor-notifications-addon"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=meteor-notifications-addon&theme=dracula"/></a>
-  <a href="https://github.com/SIMULATAN/mcpsnippets"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=mcpsnippets&theme=dracula"/></a>
 </p>
 
 ## Coding Stats (last 7 days)

@@ -5,7 +5,7 @@
 [![Dev.to (@SIMULATAN)](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/simulatan)
 
 # Hi there 👋
-I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 17 year old programmer from austria!
+My name is \_SIM\_ / SIMULATAN / Jakob and I'm an 18 year old programmer from austria!
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SIMULATAN&show_icons=true&theme=dracula&locale=en&layout=compact"/>
@@ -14,23 +14,21 @@ I'm \_SIM\_ / SIMULATAN / Jakob and I'm a 17 year old programmer from austria!
 
 ## Facts about me
 - 🖥️ I love computers
-- 👯 Organization: [BlackOnion](https://www.black-onion.com)
+- 🔭 Main Project: [Snoty](https://github.com/SnotyMe)
 - 📫 Discord: [@simulatan](https://discord.com/users/505713760124665867)
 - ☕ Favorite Programming Language: Kotlin
-- 🔭 Main Project: [BlackOnion-Bot](https://github.com/black0nion/BlackOnion-Bot)
 - 📙 Languages: German (native), English (kinda ok I guess)
-- 💻 I like homeschooling
 - 🚀 Developer by passion
 
 ## Checkout my public work!
 <p align="center">
-  <a href="https://github.com/Black0nion/BlackOnion-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=black0nion&repo=blackonion-bot&theme=dracula"/></a>
+  <a href="https://github.com/SnotyMe/snoty-backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snotyme&repo=snoty-backend&theme=dracula"/></a>
   <a href="https://github.com/SIMULATAN/meteor-notifications-addon"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=meteor-notifications-addon&theme=dracula"/></a>
   <a href="https://github.com/SIMULATAN/mcpsnippets"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simulatan&repo=mcpsnippets&theme=dracula"/></a>
 </p>
 
 ## Coding Stats (last 7 days)
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=simulatan&layout=compact&theme=dracula"/>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SIMULATAN&api_domain=wakapi.simulatan.me&layout=compact&langs_count=10&theme=dracula"/>
 <p align="center">
   <a href="https://wakatime.com/share/@SIMULATAN/e7744563-cb78-4283-a8c3-ee35d680d8fb.svg" target="blank"><img src="https://wakatime.com/share/@SIMULATAN/973284ab-3803-46df-8022-1264b93097da.svg" width="45%"/></a>
   <a href="https://wakatime.com/share/@SIMULATAN/2665b728-3965-4d16-8126-32de9eb86411.svg" target="blank"><img src="https://wakatime.com/share/@SIMULATAN/2665b728-3965-4d16-8126-32de9eb86411.svg" width="45%"/></a>
